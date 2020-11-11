@@ -2,12 +2,10 @@
     <img src="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/other-assistance-resources-overview/STB-owned-Logos/_jcr_content/mainpar/columncontroller/grid-left-par/image/image.img.jpg/1546573527062.jpg" width="96">
 </p>
 
-### Capstone Project:
+## Capstone Project:
 # *Tourists* at Home
 <br>
-<br>
-<br>
-<br>
+
 ### Overview
 
 In the wake of Covid-19 shuttering airports and devastating the tourism industry, STB and partners have announced the #SingapoRediscovers campaign focused on boosting domestic tourism back home. Recently, [\$100 tourism vouchers](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases/SingapoRediscovers-and-Expanded-Attractions-Guidelines.html) were announced to be given to every eligible Singaporean. Following the announcement, it seems most everyone has begun planning for their next staycation or a trip to the USS. But, is that all there is to domestic tourism? Can we actually grow and sustain domestic tourism in Singapore simply by incentivising local Singaporeans to pick up the slack and participate in activities that are otherwise usually targetted at foreign visitors? How can we best encourage Singaporeans to go out and explore this home of theirs, and to be tourists at home?
