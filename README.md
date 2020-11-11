@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project:<br>Tourists at Home
 
-# ![](https://www.stb.gov.sg/content/stb/en/footer/terms-of-use/_jcr_content/mainpar/imageandtext/image.img.png/1551694672513.png) Capstone Project:<br>Tourists at Home
+# ![](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/other-assistance-resources-overview/STB-owned-Logos/_jcr_content/mainpar/columncontroller/grid-left-par/image/image.img.jpg/1546573527062.jpg) Capstone Project: Tourists at Home
 
 ### Overview
 
@@ -170,36 +170,33 @@ We have a few types of non-NLP features for our model to train on. These are sub
 
 Our top ranking meta-feature is `time_of_day_Afternoon` with a weight of 0.0756. Among our platform types, YouTube videos are the most likely to succeed and become popular with `platform_YouTube_Videos` coming in ranked second with a weight of 0.0611. The next platform type most likely to be popular is `platform_Instagram_Posts` at 0.0487 and `platform_YouTube_Comments` at 0.0388. The third ranking feature is `age` of the content with a weight of 0.0525. While this is an important predictor to our model, it should not be understood as a linearly correlated with popularity. Content launched this year - `year_2020` weighted 0.0401, and last - `year_2019` weighted 0.0388, are more likely to be popular too. Generally, we can see that content that are more recent tend to perform better than content that are older.
 
+#### Proposal 1:
 
-#### Recommendations
-
-##### Proposal 1:
-
-![](../assets/sgbike.jpg)
+![](assets/sgbike.jpg)
 
 - An *Instagram photo cycle* (like a photo walk, but on bicycle) that will encourage the locals to pick up a bicycle and explore different areas and neighbourhoods of Singapore, and to rediscover their hometowns in new light.
 - For leisure cycling, most Singaporeans would turn to places like East Coast Park where there are bicycle rentals easily accessible, which is why unless you have your own bicycle, it is uncommon for someone to cycle and explore their neighbourhood. This would be a good opportunity to partner with one/both of the surviving [bicycle providers](https://vulcanpost.com/708823/singapore-bike-sharing-will-it-take-off/#:~:text=In%202017%2C%20Singapore%20started%20seeing%20a%20bike%2Dsharing%20boom.&text=At%20its%20peak%2C%20nine%20bike,more%20than%20200%2C000%20shared%20bicycles.) (SG Bike and Anywheel) and #supportlocalsg.
 - We have extensive Park Connector Networks (PCNs) that connect the different regions of Singapore to one another so this is entirely feasible and would encourage usage of these built infrastructure.
 - STB can engage the locals with this initiative by releasing checkpoints/destinations or neighbourhood of interest weekly as well as manage a hashtag where locals can post photos of their exploration.
 
-##### Proposal 2:
+#### Proposal 2:
 
-![](../assets/golden_mile.jpg)
+![](assets/golden_mile.jpg)
 
 - A *Pseudo-Travel initiative* within Singapore that will enlighten our locals to the numerous ethnic enclaves that have organically grown in Singapore, and to encourage them to visit and be "tourists" for a day at home.
 - As a cosmopolitan city, Singapore is home to many people from all around the world. As foreigners in Singapore, these groups of people would inevitably reappropriate a space and form their own [little ethnic enclaves](https://thefinder.life/healthy-living/ask-the-experts/7-hidden-ethnic-enclaves-singapore-arent-chinatown-or-little/?agallery=24200&aslide=0). Some are well-known and arguably gentrified, such as Little India, Chinatown, and Kampung Gelam. There are others that are just as known but are not officially recognised, such as Lucky Plaza that is Filipino's home away from home; Peninsula Plaza aka Little Burma; Golden Mile Complex aka Little Thailand, Tanjong Pagar or Korean street; Geylang aka New Chinatown; City Plaza for the Indonesians. We would argue that these places are worth exploring and more appealing to locals because they have not been officially recognised and is a quick way to transport yourself to another country within Singapore.
 - To encourage Singaporeans to go out and explore these other ethnic enclaves in Singapore, we propose partnering up with Ghib Ojisan (GO) on YouTube for him to explore these enclaves and vlog his experiences on his channel to educate the local viewers and pique their interest.
 - GO has acutally already done a [video](https://www.youtube.com/watch?v=_ZQl1eG98iY&ab_channel=GhibOjisan) exploring Lucky Plaza. Of course, there remains more to be explored. But in light of that, we recommend beginning this series with Little Thailand at Golden Mile Complex. Recent news of its [official conservancy status](https://www.channelnewsasia.com/news/singapore/golden-mile-complex-proposed-for-conservation-incentives-13240674) would likely see the optimistic revival of this enclave.
 
-##### Proposal 3:
+#### Proposal 3:
 
-![](../assets/chingay.jpg)
+![](assets/chingay.jpg)
 
 - A *Chingay behind-the-scenes* YouTube mini-series that follows volunteer performers behind the scenes as they rehearse and prepare themselves over 6 months for the [Chingay](https://www.chingay.gov.sg/) performance (Chingay 2020 was held on Jan 31 and Feb 1).
 - This is aimed to boost and create sustained local interest in Chingay by investing the viewers in the jouney of the volunteer performers. Since the mini-series will be episodic, fresh content that is generated periodically will stimulate interest.
 - As Chingay is an annual event, it will be a worthwhile pursuit for STB to create and generate the local buzz/interest over Chingay. By creating a new generation of Chingay audience, we will be able build on that momentum year after year. Should travel resume, it would also be a better Chingay with greater local support and interest. For a parade that celebrate multiculturality, it would be a more interesting experience for foreign tourists to spectate alongside local "tourists".     
 
-##### Evaluation:
+#### Evaluate Proposals:
 
 We ran each of the 3 proposals through our Hybrid_02 model to predict on their popularity. While they are all predicted to be popular, proposal 3 was predicted to be most likely to be popular with a prediction popularity of 0.695 compared to proposal 1's probability of 0.590 and proposal 2's probability of 0.567. Therefore, of all the initiatives we would recommend proposal 3 most.
 
