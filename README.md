@@ -1,10 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project:<br>Tourists at Home
-
-# ![](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/other-assistance-resources-overview/STB-owned-Logos/_jcr_content/mainpar/columncontroller/grid-left-par/image/image.img.jpg/1546573527062.jpg) Capstone Project: Tourists at Home
-
-<p align="right">
-  <img src="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/other-assistance-resources-overview/STB-owned-Logos/_jcr_content/mainpar/columncontroller/grid-left-par/image/image.img.jpg/1546573527062.jpg" width="48">
-</p>
+# Capstone Project: *Tourists* at Home <p align="right"><img src="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/other-assistance-resources-overview/STB-owned-Logos/_jcr_content/mainpar/columncontroller/grid-left-par/image/image.img.jpg/1546573527062.jpg" width="100"></p>
 
 ### Overview
 
