@@ -173,6 +173,8 @@ Our top ranking meta-feature is `time_of_day_Afternoon` with a weight of 0.0756.
 
 ![](assets/sgbike.jpg)
 
+<p style='text-align: right;'><sub>Image by Vulcan Post from https://vulcanpost.com/682248/sgbike-acquires-mobike-offers-free-rides/</sub></p>
+
 - An *Instagram photo cycle* (like a photo walk, but on bicycle) that will encourage the locals to pick up a bicycle and explore different areas and neighbourhoods of Singapore, and to rediscover their hometowns in new light.
 - This would also be a good opportunity to partner with one/both of the surviving [bicycle providers](https://vulcanpost.com/708823/singapore-bike-sharing-will-it-take-off/#:~:text=In%202017%2C%20Singapore%20started%20seeing%20a%20bike%2Dsharing%20boom.&text=At%20its%20peak%2C%20nine%20bike,more%20than%20200%2C000%20shared%20bicycles.) (SG Bike and Anywheel) and #supportlocalsg.
 - STB can engage the locals with this initiative by releasing checkpoints/destinations or neighbourhood of interest weekly as well as manage a hashtag where locals can post photos of their exploration.
@@ -181,6 +183,8 @@ Our top ranking meta-feature is `time_of_day_Afternoon` with a weight of 0.0756.
 
 ![](assets/golden_mile.jpg)
 
+<p style='text-align: right;'><sub>Image by The Straits Times from https://www.straitstimes.com/business/golden-mile-complex-launches-en-bloc-tender-while-under-conservation-study/</sub></p>
+
 - A *Pseudo-Travel initiative* within Singapore that will enlighten our locals to the numerous hidden ethnic enclaves that have organically grown in Singapore, and to encourage them to visit and be "tourists" for a day at home.
 - STB can commission YouTubers to develop content on exploring these other ethnic enclaves that can educate local viewers as well as pique their interest, which will in turn enncourage Singaporeans to go out and explore these hidden ethnic enclaves in Singapore.
 - We recommend partnering with Ghib Ojisan. For the first of more videos to come, we recommend beginning this series with Little Thailand at Golden Mile Complex. Recent news of its [official conservancy status](https://www.channelnewsasia.com/news/singapore/golden-mile-complex-proposed-for-conservation-incentives-13240674) would likely see the optimistic revival of this enclave.
@@ -188,6 +192,8 @@ Our top ranking meta-feature is `time_of_day_Afternoon` with a weight of 0.0756.
 #### Proposal 3:
 
 ![](assets/chingay.jpg)
+
+<p style='text-align: right;'><sub>Image by The Straits Times from https://www.straitstimes.com/singapore/marina-bay-awash-in-music-and-colour-at-chingay-2016-street-parade</sub></p>
 
 - A *Chingay behind-the-scenes* YouTube mini-series that follows volunteer performers behind the scenes as they rehearse and prepare themselves over 6 months for the [Chingay](https://www.chingay.gov.sg/) performance (Chingay 2020 was held on Jan 31 and Feb 1).
 - This is aimed to boost and create sustained local interest in Chingay by investing the viewers in the jouney of the volunteer performers. Since the mini-series will be episodic, fresh content that is generated periodically will stimulate interest.
