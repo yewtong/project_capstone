@@ -1,9 +1,0 @@
-Progress Report:
-
-1. Data set out to scrape are all in hand. Whether more data is needed remains to be seen, but it is unlikely.
-2. I have not done a full EDA yet. The first EDA I will focus on is my target variable - number of likes, to understand its distribution across platforms etc.
-3. I will be building the first model today after the EDA on target variable has been done. I need to understand how to build my model and if I need to qualify my target variable when merging datasets in any way.
-4. Currently no blockers speculated yet.
-5. My problem statement remains the same.
-6. I would like to finish up my baseline model soon so I can look into improving it, either with tuning hyperparameters or adding in new (non-NLP) features within reason.
-7. I would probably like to discuss my baseline model and my treatment of the target variable once I'm doing with modelling it.
