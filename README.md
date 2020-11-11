@@ -21,7 +21,6 @@ While this project remains primarily an NLP endeavour, non-NLP information were 
 
 Please use the following links to get around:
 
-- [Content](#Content)
 - [Data](#Data)
 - [Analysis and Exploration](#Analysis-and-Exploration)
 - [Models](#Models)
