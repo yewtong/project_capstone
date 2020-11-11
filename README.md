@@ -2,8 +2,7 @@
     <img src="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/other-assistance-resources-overview/STB-owned-Logos/_jcr_content/mainpar/columncontroller/grid-left-par/image/image.img.jpg/1546573527062.jpg" width="96">
 </p>
 
-## Capstone Project:
-# *Tourists* at Home
+# Capstone Project: *Tourists* at Home
 <br>
 
 ### Overview
